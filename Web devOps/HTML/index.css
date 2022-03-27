@@ -1,0 +1,16 @@
+body {
+    margin: 10px;
+    background-color: rgba(rgb(153, 20, 20), rgb(11, 58, 11), rgb(185, 50, 16), 20);
+}
+
+img {
+    border-radius: 50px;
+    height: 300px;
+    padding-left: 10px;
+}
+.Tab1{
+    padding-left:10px ;
+}
+.Tab{
+    border: 1px solid rgb(0, 0, 0);
+}
